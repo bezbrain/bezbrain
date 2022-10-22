@@ -1,4 +1,4 @@
-## Hi 👋, I am Olawale
+# Hi 👋, I am Olawale
 
 ### A passionate Frontend Web Developer
 
