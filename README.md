@@ -1,6 +1,6 @@
-### Hi 👋, I am Olawale
+## Hi 👋, I am Olawale
 
-## A passionate Frontend Web Developer
+### A passionate Frontend Web Developer
 
 <!--
 **bezbrain/bezbrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
