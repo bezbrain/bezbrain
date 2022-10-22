@@ -4,6 +4,8 @@
 
 
 - 🔭 I’m currently working on my Portfolio
+- 🌱 I’m currently learning JavaScript and React.js
+- 📫 How to reach me: belloquadriolawale@gmail.com
 
 <!--
 **bezbrain/bezbrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
