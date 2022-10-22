@@ -2,6 +2,9 @@
 
 ### A passionate Frontend Web Developer
 
+
+- 🔭 I’m currently working on my Portfolio
+
 <!--
 **bezbrain/bezbrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
