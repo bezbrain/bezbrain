@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on my Portfolio
-- 🌱 I’m currently learning JavaScript and React.js
+- 🌱 I’m currently learning Next.js and TypeScript
 - 📫 How to reach me: belloquadriolawale@gmail.com
 
 <!--
