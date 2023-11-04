@@ -3,7 +3,7 @@ a curious and passionate Frontend Developer with vast knowledge in TypeScript, J
 
 ### I bring ideas and imagination to life using softwares and technologies
 
-- 📫 How to reach me: belloquadriolawale@gmail.com
+- 📫 How to reach me: belloquadriola@gmail.com
 
 <!--
 **bezbrain/bezbrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
