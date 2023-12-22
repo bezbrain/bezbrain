@@ -4,6 +4,7 @@ a curious and passionate Frontend Developer with a touch of Backend development 
 ### I bring ideas and imagination to life using softwares and technologies
 
 - 📫 How to reach me: belloquadriola@gmail.com
+- 💬 My Portfolio: https://olawaleportfolio.netlify.app
 
 <!--
 **bezbrain/bezbrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
