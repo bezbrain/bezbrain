@@ -9,7 +9,8 @@ a curious and passionate Frontend Developer with a touch of Backend development 
 - 💬 My Portfolio: https://olawaleportfolio.netlify.app
 - ⚡ Everything about me: https://linktr.ee/olawalequadri
 
-  [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bezbrain)](https://github.com/anuraghazra/github-readme-stats)
+  <-- [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bezbrain)](https://github.com/anuraghazra/github-readme-stats) -->
+  [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bezbrain&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **bezbrain/bezbrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
