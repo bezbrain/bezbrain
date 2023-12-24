@@ -9,7 +9,11 @@ a curious and passionate Frontend Developer with a touch of Backend development 
 - 💬 My Portfolio: https://olawaleportfolio.netlify.app
 - ⚡ Everything about me: https://linktr.ee/olawalequadri
 
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
   [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bezbrain&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
