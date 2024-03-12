@@ -21,7 +21,7 @@ a curious and passionate Frontend Developer with experience in Backend developme
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
   [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bezbrain&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bezbrain&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  <!--[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bezbrain&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
   <!--![Your GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=bezbrain)-->
 
 <!--
