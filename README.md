@@ -1,5 +1,5 @@
 # Hi 👋, I am Olawale,
-a curious and passionate Frontend Developer with experience in Backend development (Nodejs-Expressjs). I have vast knowledge in TypeScript, Javascript and some of its frameworks/libraries (Reactjs, Nextjs, etc). I am open to learning new technologies and I enjoy contributing to Open Source Projects. As a curious developer, I am always interested in world's problems and solve them using softwares.
+a curious and passionate Seoftware Developer(Web and Mobile apps) who specializes in Frontend development with experience in Backend development (Nodejs-Expressjs). I have vast knowledge in TypeScript, Javascript and some of its frameworks/libraries (Reactjs, Nextjs, React Native etc). I am open to learning new technologies and I enjoy contributing to Open Source Projects. As a curious developer, I am always interested in world's problems and solve them using softwares.
 
 ### I bring ideas and imagination to life using softwares and technologies
 
