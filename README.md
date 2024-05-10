@@ -8,9 +8,11 @@ I am a curious and passionate Seoftware Developer (Web and Mobile apps) who spec
 
 - Pronouns: He/Him
 - I am AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) graduate, Class of 2024.
-- 💬 Ask me about what I am working on because I am always working on something
-- 👯 I’m looking to collaborate and join your team. Bring me on board and I promise you won't regret it
-- 📫 How to reach me: belloquadriola@gmail.com
+- 💬 Ask me about what I am working on because I am always working on something.
+- I am currently learning Python and getting better at PostgreSQL.
+- 👯 I’m looking to collaborate and join your team. Bring me on board and let's build for the future.
+- 💼 Job interests: Software Engineer, Front Engineer (Mid to Senior level role), Backend Engineer(Mid-level role) or UI Engineer (Mid to Senior level role).
+- 📫 How to reach me: belloquadriola@gmail.com.
 
 ### Technologies Used:
 ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
