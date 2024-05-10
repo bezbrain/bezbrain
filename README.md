@@ -1,13 +1,14 @@
 # Hi👋🏾 and you are welcome.
-a curious and passionate Seoftware Developer(Web and Mobile apps) who specializes in Frontend development with experience in Backend development (Nodejs-Expressjs). I have vast knowledge in TypeScript, Javascript and some of its frameworks/libraries (Reactjs, Nextjs, React Native etc). I am open to learning new technologies and I enjoy contributing to Open Source Projects. As a curious developer, I am always interested in world's problems and solve them using softwares.
+
+[![Website Badge](https://img.shields.io/badge/-olawalequad.com-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://linktr.ee/olawalequadri)](https://linktr.ee/olawalequadri) [![Linkedin Badge](https://img.shields.io/badge/-olabezbrain-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olabezbrain)](https://www.linkedin.com/in/olabezbrain) [![Twitter Badge](https://img.shields.io/badge/-@oladottcom-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/iambolajiayo)](https://twitter.com/oladottcom)
+
+I am a curious and passionate Seoftware Developer(Web and Mobile apps) who specializes in Frontend development with experience in Backend development (Nodejs-Expressjs). I have vast knowledge in TypeScript, Javascript and some of its frameworks/libraries (Reactjs, Nextjs, React Native etc). I am open to learning new technologies and I enjoy contributing to Open Source Projects. As a curious developer, I am always interested in world's problems and solve them using softwares.
 
 ### I bring ideas and imagination to life using softwares and technologies
 
 - 💬 Ask me about what I am working on because I am always working on something
 - 👯 I’m looking to collaborate and join your team. Bring me on board and I promise you won't regret it
 - 📫 How to reach me: belloquadriola@gmail.com
-
-[![Website Badge](https://img.shields.io/badge/-olawalequad.com-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://linktr.ee/olawalequadri)](https://linktr.ee/olawalequadri) [![Linkedin Badge](https://img.shields.io/badge/-olabezbrain-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olabezbrain)](https://www.linkedin.com/in/olabezbrain) [![Twitter Badge](https://img.shields.io/badge/-@oladottcom-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/iambolajiayo)](https://twitter.com/oladottcom)
 
 ### Technologies Used:
 ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
