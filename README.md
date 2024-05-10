@@ -6,10 +6,10 @@ I am a curious and passionate Seoftware Developer (Web and Mobile apps) who spec
 
 ### A summary about me:
 
-- Pronouns: He/Him
-- I am AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) graduate, Class of 2024.
+- 👨 Pronouns: He/Him
+- 💡 You might want to know: I am AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) graduate, Class of 2024.
 - 💬 Ask me about what I am working on because I am always working on something.
-- I am currently learning Python and getting better at PostgreSQL.
+- 🌱 I am currently learning Python and getting better at PostgreSQL.
 - 👯 I’m looking to collaborate and join your team. Bring me on board and let's build for the future.
 - 💼 Job interests: Software Engineer, Front Engineer (Mid to Senior level role), Backend Engineer(Mid-level role) or UI Engineer (Mid to Senior level role).
 - 📫 How to reach me: belloquadriola@gmail.com.
