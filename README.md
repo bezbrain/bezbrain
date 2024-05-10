@@ -28,10 +28,6 @@ I am a curious and passionate Seoftware Developer (Web and Mobile apps) who spec
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-  <--[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bezbrain&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
-  <!--![Your GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=bezbrain)-->
-  <--[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bezbrain&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
-
   | <img align="center" src="https://github-readme-stats.vercel.app/api?username=bezbrain&show_icons=true&include_all_commits=true&hide_border=true" alt="Bezbrain's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezbrain&langs_count=8&layout=compact&hide_border=true" alt="Bezbrain's GitHub stats" /> |
 | ------------- | ------------- |
 
