@@ -6,10 +6,8 @@ a curious and passionate Seoftware Developer(Web and Mobile apps) who specialize
 - 💬 Ask me about what I am working on because I am always working on something
 - 👯 I’m looking to collaborate and join your team. Bring me on board and I promise you won't regret it
 - 📫 How to reach me: belloquadriola@gmail.com
-- 💬 My Portfolio: https://olawaleportfolio.netlify.app
-- ⚡ Aboutbout me: https://linktr.ee/olawalequadri
 
-[![Website Badge](https://img.shields.io/badge/-olawalequad.com-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://olawaleportfolio.netlify.app)](https://olawaleportfolio.netlify.app) [![Linkedin Badge](https://img.shields.io/badge/-olabezbrain-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olabezbrain)](https://www.linkedin.com/in/olabezbrain) [![Twitter Badge](https://img.shields.io/badge/-@oladottcom-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/iambolajiayo)](https://twitter.com/oladottcom)
+[![Website Badge](https://img.shields.io/badge/-olawalequad.com-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://olawaleportfolio.netlify.app)](https://linktr.ee/olawalequadri) [![Linkedin Badge](https://img.shields.io/badge/-olabezbrain-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olabezbrain)](https://www.linkedin.com/in/olabezbrain) [![Twitter Badge](https://img.shields.io/badge/-@oladottcom-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/iambolajiayo)](https://twitter.com/oladottcom)
 
 ### Technologies Used:
 ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
